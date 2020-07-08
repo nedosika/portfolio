@@ -397,6 +397,7 @@ textarea.form-control {
 	text-align: center;
 	padding: 40px 20px;
 	margin: 0 0 20px;
+	min-height: 258px;
 }
 
 .iconbox-icon {
